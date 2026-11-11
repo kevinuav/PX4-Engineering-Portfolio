@@ -194,8 +194,6 @@ It felt like restarting the whole project from scratch.
 
 Still, I decided to follow his advice.
 
-![PX4's API write test]
-
 ----------------------------------------------------
 
 ## PX4 Thread-Based Version
