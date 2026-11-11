@@ -12,8 +12,9 @@ Projects:
 - uORB
 - Driver Architecture
 
-See:
-Jet_Engine_driver_For_PX4.md
+
+[View Project](Jet_Engine_driver_For_PX4.md)
+
 
 ----------------------------------------------------
 
@@ -26,5 +27,4 @@ Jet_Engine_driver_For_PX4.md
 - Threading
 - PX4 Integration
 
-See:
-Futaba_SBUS2_Telemetry_For_PX4.md
+[View Project](Futaba_SBUS2_Telemetry_For_PX4.md)
